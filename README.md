@@ -1,1 +1,1 @@
-# Relaxer-app
+Relaxer is an app which is a designed to encourage you to improve your breathing techniques and in so doing, help you to better relax. The simple interface lets you select from over 15 different mantras. 
